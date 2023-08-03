@@ -29,14 +29,4 @@ variable locationk8s {
     default = "eastus"
 }
 
-variable aks_service_principal_app_id {
-    default= "Enter_aks_service_principal_app_id"
-}
 
-variable aks_service_principal_client_secret{
-    default = "Enter_aks_service_principal_client_secret"
-}
-
-variable aks_service_principal_object_id {
-    default= "Enter_aks_service_principal_object_id"
-}
