@@ -13,7 +13,7 @@ variable "agent_count" {
 }
 
 variable "ssh_public_key" {
-    default = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDmTdMgMgUFDvigttdowBTrk4x4pWJC9wab7f6Ftm6t7PyMMo9CjpwqkqsI0HuTZThAkScvC6RlB1V0SqXymi8fYp5Bo25RWMVCjAgSjt5yEuzmfrxk8FEMW2GP4uW4E/pwpjtKOy/oZBzl2ocR2hMOV0P9+ILI6uh9QniuxtvS6kV6Mmd24DgJGmdnvlXYeOZfusI8qjeTrKSvwcQySbozAD8Nqwp2w4U753T8ZortKLruG/BOQ3rq9cZ6XbaY2n3ip+0YYSkKdP4pS6GiL0vNXjMDZgoBRafCJVtjXDhNt89mWhq0rX8r4HaS/VJ04Won6WTjIFqR7Xo1B3S6j14viVRa1FLIkdOZA+pqePPqAebviW6Kg8Vpp5kE/cg39eOhi1qOSDZbXL8FJjWY4HHbsm3mH/oYmnWvPfkByNNcAmPPNrCQJbqyR3O1TGRRIcZCueEMVawj+KoyfibKFXxWHfGpwN6Tn8vLxxxLi7yIbclcCNvZWRhzc5+iDz8cLI0= generated-by-azure"
+    default = "Enter you ssh key"
 }
 
 variable "dns_prefix" {
